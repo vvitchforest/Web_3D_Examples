@@ -1,19 +1,9 @@
 # 3D Models and Virtual Tour on the Web
 
-This repository provides examples for how to utilise 3D models and virtual tours on the web.  
-Examples include both rendering a 3D model using the Three.js library and using model viewers.  
-This page also features some examples of generating 3D models of objects and spaces using photogrammetry and LiDAR scanning.  
-A few different solutions for creating virtual tours are also showcased.
-
-## Viewing 3D Models
-
-These technologies can be used to display 3D models on the web:
-
-1. [Three.js](3dModels/viewing/threejs.md)
-2. [Sketchfab](3dModels/viewing/sketchfab.md)
-3. [Clara.io](3dModels/viewing/clara-io.md)
-4. [Model Viewer](3dModels/viewing/model-viewer.md)
-5. [MyWebAR](3dModels/viewing/mywebar.md)
+This repository provides examples of using 3D models and virtual tours on the web.  
+First, we explore technologies that can be used to generate and display 3D models of spaces and objects.
+Then we demonstrate and compare techniques for creating virtual tours.
+Documentation summarizes technologies and applications used to create these examples.
 
 ## Creating 3D Models
 
@@ -25,9 +15,19 @@ Some technologies for generating 3D models of objects and spaces:
 4. [Lidar Tests](3dModels/creating/lidar-tests.md)
 5. [Photogrammetry with Meshroom](3dModels/creating/photogrammetry-meshroom.md)
 
+## Viewing 3D Models
+
+Displaying 3D models on the web:
+
+1. [Three.js](3dModels/viewing/threejs.md)
+2. [Sketchfab](3dModels/viewing/sketchfab.md)
+3. [Clara.io](3dModels/viewing/clara-io.md)
+4. [Model Viewer](3dModels/viewing/model-viewer.md)
+5. [MyWebAR](3dModels/viewing/mywebar.md)
+
 ## Virtual Tours
 
-These solutions are available for building virtual tours:
+Technologies for building virtual tours:
 
 1. [Cupix Tour](virtualTours/cupix-tour.md)
 2. [Matterport](virtualTours/matterport.md)
@@ -37,11 +37,6 @@ These solutions are available for building virtual tours:
 6. [Metareal Virtual Tour](virtualTours/metareal-virtual-tour.md)
 
 ## Documentation
-
-<details>
-  <summary>View Detailed Documentation</summary>
-
-### Documentation
 
 #### Apps for Mobile and 3D Scanning
 
@@ -419,6 +414,6 @@ These solutions are available for building virtual tours:
   - _Matterport cameras are supported only with the Matterport cloud professional plan_
   - _Cannot get high-quality 360° pictures out from the cloud_
   - _In-app purchases for each virtual tour separately, even for the 3D model_
-  </details>
-
     </details>
+
+       </details>

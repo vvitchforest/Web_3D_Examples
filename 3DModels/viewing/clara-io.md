@@ -12,7 +12,6 @@ In this example it was used as editor to display models generated with other app
 
 ### Technologies
 
-- **Photogrammetry**
 - **Left:** Qlone mobile app for Android/iOS (free with limits)
 - **Middle:** 3D Live Scanner for Android (free with advertisements)
 - **Right:** Metascan for iOS (free with limits)

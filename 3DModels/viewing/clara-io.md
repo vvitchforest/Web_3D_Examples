@@ -1,8 +1,8 @@
 # Clara.io
 
-[![Clara.io Viewer](images/claraio.jpg)](https://clara.io/view/aec7ff3b-44f2-4636-a698-88cd62337bbb)
+[![Clara.io Viewer](../../images/claraio.jpg)](https://clara.io/view/aec7ff3b-44f2-4636-a698-88cd62337bbb)
 
-_The Clara.io viewer_
+_The Clara.io viewer._
 
 ## Info
 

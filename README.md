@@ -9,21 +9,21 @@ Documentation summarizes technologies and applications used to create these exam
 
 Some technologies for generating 3D models of objects and spaces:
 
-1. [Cupix Model](3dModels/creating/cupix-model.md)
-2. [Media Lab with Scaniverse](3dModels/creating/medialab-scaniverse.md)
-3. [Polycam](3dModels/creating/polycam.md)
-4. [Lidar Tests](3dModels/creating/lidar-tests.md)
-5. [Photogrammetry with Meshroom](3dModels/creating/photogrammetry-meshroom.md)
+1. [Cupix Model](3DModels/creating/cupix-model.md)
+2. [Media Lab with Scaniverse](3DModels/creating/medialab-scaniverse.md)
+3. [Polycam](3DModels/creating/polycam.md)
+4. [Lidar Tests](3DModels/creating/lidar-tests.md)
+5. [Photogrammetry with Meshroom](3DModels/creating/photogrammetry-meshroom.md)
 
 ## Viewing 3D Models
 
 Displaying 3D models on the web:
 
-1. [Three.js](3dModels/viewing/threejs.md)
-2. [Sketchfab](3dModels/viewing/sketchfab.md)
-3. [Clara.io](3dModels/viewing/clara-io.md)
-4. [Model Viewer](3dModels/viewing/model-viewer.md)
-5. [MyWebAR](3dModels/viewing/mywebar.md)
+1. [Three.js](3DModels/viewing/threejs.md)
+2. [Sketchfab](3DModels/viewing/sketchfab.md)
+3. [Clara.io](3DModels/viewing/clara-io.md)
+4. [Model Viewer](3DModels/viewing/model-viewer.md)
+5. [MyWebAR](3DModels/viewing/mywebar.md)
 
 ## Virtual Tours
 

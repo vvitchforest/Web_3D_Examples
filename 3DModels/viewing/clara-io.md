@@ -1,19 +1,8 @@
 # Clara.io
 
-<a href="#info"><i class="bi bi-info-circle-fill" title="info" style="font-size:1.5rem;"></i></a>
+[![Clara.io Viewer](images/claraio.jpg)](https://clara.io/view/aec7ff3b-44f2-4636-a698-88cd62337bbb)
 
-<iframe 
-  title="Toy Bunnies" 
-  src="https://clara.io/embed/aec7ff3b-44f2-4636-a698-88cd62337bbb?renderer=webgl" 
-  width="960" 
-  height="540" 
-  allowfullscreen>
-</iframe>
-
-<p class="fst-italic text-left text-md-center">
-  Note: Clara.io viewer works better 
-  [on their site](https://clara.io/view/aec7ff3b-44f2-4636-a698-88cd62337bbb).
-</p>
+_The Clara.io viewer_
 
 ## Info
 

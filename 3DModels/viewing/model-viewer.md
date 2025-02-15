@@ -1,6 +1,6 @@
 # Model-viewer + AR
 
-[![Model-viewer + AR](../../images/elephant.jpg)]
+![Model-viewer + AR](../../images/elephant.jpg)
 
 [Model-viewer viewer](https://modelviewer.dev/)
 

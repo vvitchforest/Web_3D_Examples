@@ -29,11 +29,9 @@ In this example, we created a **3D unicorn figure** using photogrammetry, then l
 
 ### Where to Use
 
-### Where to Use Three.js
-
--Interactive product showcases to display objects in 3D
--Web 3D games
--Using WebXR features to create VR/AR experiences or games
+- Interactive product showcases to display objects in 3D
+- Web 3D games
+- Using WebXR features to create VR/AR experiences or games
 
 ### Webpages
 

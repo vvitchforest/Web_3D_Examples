@@ -6,7 +6,7 @@
 
 ## Info
 
-**Three.js** is a popular JavaScript library that uses WebGL to render 3D graphics in the browser. It simplifies tasks like managing scenes, lights, cameras, and animations. Three.js also supports post-processing, allowing you to apply visual effects—such as bloom, depth of field, or color tweaks adjustmenets the scene has been render.
+**Three.js** is a popular JavaScript library that uses WebGL to render 3D graphics in the browser. It simplifies tasks like managing scenes, lights, cameras, and animations. Three.js also supports post-processing, allowing you to apply visual effects—such as bloom, depth of field, or color adjustmenets after the scene has been render.
 
 You can also use it with React, using libraries like **react-three-fiber**, which makes it easy to add 3D content to your React projects. Three.js supports WebXR, allowing developers to create augmented reality (AR) and virtual reality (VR) experiences on a range of devices.
 

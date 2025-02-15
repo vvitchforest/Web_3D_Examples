@@ -6,9 +6,9 @@
 
 ## Info
 
-**Model Viewer** is an open-source web component (primarily developed by Google) that makes it easy to display and interact with 3D models on a web page using just a few lines of HTML. It’s built on top of WebGL and the <model-viewer> tag handles a lot of the complexity that normally goes into rendering 3D on the web—things like lighting, controls, and AR support on compatible devices. This allows developers to integrate 3D content without needing knowledge of Three.js or Babylon.js.
+**Model Viewer** is an open-source web component (primarily developed by Google) that makes it easy to display and interact with 3D models on a web page using just a few lines of HTML. It’s built on top of WebGL and the `<model-viewer>` tag handles a lot of the complexity that normally goes into rendering 3D on the web—things like lighting, controls, and AR support on compatible devices. This allows developers to integrate 3D content without needing knowledge of Three.js or Babylon.js.
 
-[Model-viewer Editor](https://modelviewer.dev/editor) is a web-based tool that lets you visually customize and preview 3D models before embedding them into your website. It allows you to adjust settings like camera controls, lighting, and AR options, and then generates the code needed to display the model using the `model-viewer` component. This makes it easier for developers to integrate interactive 3D content without extensive coding.
+[Model-viewer Editor](https://modelviewer.dev/editor) is a web-based tool that lets you visually customize and preview 3D models before embedding them into your website. It allows you to adjust settings like camera controls, lighting, and AR options, and then generates the code needed to display the model using the `<model-viewer>` component. This makes it easier for developers to integrate interactive 3D content without extensive coding.
 
 ### Technologies
 

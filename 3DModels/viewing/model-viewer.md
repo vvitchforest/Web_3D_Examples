@@ -2,7 +2,7 @@
 
 ![Model-viewer + AR](../../images/elephant.jpg)
 
-[Model-viewer viewer](https://modelviewer.dev/)
+[Model-viewer](https://modelviewer.dev/)
 
 ## Info
 

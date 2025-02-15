@@ -1,5 +1,9 @@
 # Scaniverse
 
+[![Scaniverse](../../images/scaniverse.jpg)](https://scaniverse.com)
+
+[Scaniverse](https://scaniverse.com)
+
 **Scaniverse** is a mobile app that uses LiDAR technology to capture detailed 3D scans of environments and objects. The app allows users to quickly generate accurate 3D models with depth information. It is designed for iOS devices with LiDAR sensors, but can also be used in photogrammetry mode on iOS or Android devices that do not have LiDAR sensors. Scaniverse also includes support for Gaussian splatting on newer devices. This feature is used to enhance 3D scan quality by applying a point-based rendering technique that creates smoother and more detailed models.
 
 The app offers a user-friendly interface that allows users to quickly perform scans and fine-tune settings such as resolution and capture parameters. Features include real-time previewing and editing of scans, the ability to export models in common 3D file formats, and integration options for use in augmented reality (AR) and virtual reality (VR) applications.

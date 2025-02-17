@@ -8,10 +8,6 @@
 
 ## Info
 
-## Introduction to Polycam
-
-## Introduction to Polycam
-
 **Polycam** is a mobile app for 3D scanning objects and spaces with LiDAR technology. Most of its features, including LiDAR capture and Room scanner, are only available on newer iOS devices that have a LiDAR sensors. The app also has Photogrammetry mode, which does not require LiDAR sensors and also works on Android phones.
 LiDAR mode uses the device's depth sensor to measure distance in real time, making it efficient and quick technique for scanning larger environemnts. On the other hand, photogrammetry mode is useful in cases where more precise detail is needed. Polycam supports Gausian splatting, which creates more realistic and detailed reconstructions of objects and spaces than photogrammetry.
 

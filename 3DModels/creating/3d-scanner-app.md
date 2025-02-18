@@ -1,7 +1,6 @@
 # 3D Scanner App
 
 **3D Scanner App** is an iOS application that uses LiDAR and photogrammetry to create 3D scans.
-
 3D Scanner App was tested to create 3D models using a LiDAR device. Mesh (.glb) and point cloud (.ply) files were generated for comparison.
 
 ---

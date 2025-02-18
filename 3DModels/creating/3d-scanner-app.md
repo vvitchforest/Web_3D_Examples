@@ -6,17 +6,13 @@
 
 ---
 
-### Embedded Scans
-
 **LiDAR scan of a turtle in .glb mesh format**  
 _Taken with 3D Scanner App for mobile (GLB format)_  
-![Turtle Mesh](../../images/turtle-mesh.PNG)  
-[View scan on Sketchfab](https://sketchfab.com/models/e070f5500c6346c5bd921618a1be1ef0/embed)
+[![Turtle Mesh](../../images/turtle-mesh.PNG)](https://sketchfab.com/models/e070f5500c6346c5bd921618a1be1ef0/embed)
 
 **LiDAR scan of a turtle in .ply point-cloud format**  
 _Taken with 3D Scanner App for mobile (PLY point-cloud format)_  
-![Turtle Point Cloud](../../images/turtle-pointcloud.PNG)  
-[View scan on Sketchfab](https://sketchfab.com/models/0b36415c5be94e8f84e2e6e4e2408bc6/embed)
+[![Turtle Point Cloud](../../images/turtle-pointcloud.PNG)](https://sketchfab.com/models/0b36415c5be94e8f84e2e6e4e2408bc6/embed)
 
 ---
 

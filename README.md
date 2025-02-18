@@ -11,7 +11,7 @@ Some technologies for generating 3D models of objects and spaces:
 
 1. [Scaniverse](3DModels/creating/scaniverse.md)
 2. [Polycam](3DModels/creating/polycam.md)
-3. [Lidar Tests](3DModels/creating/lidar-tests.md)
+3. [3D Scanner App](3DModels/creating/3d-scanner-app.md)
 4. [Photogrammetry with Meshroom](3DModels/creating/photogrammetry-meshroom.md)
 
 ## Viewing 3D Models

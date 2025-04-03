@@ -36,22 +36,16 @@ Here are some technologies for creating virtual tours. There are also many other
 
 Here are some notes we made during the project.
 
-### Apps for Mobile and 3D Scanning
+### Mobile Apps
 
-<details style="background-color: #f0f0f0; color: #333;">
+<details >
   <summary>Photogrammetry</summary>
 
 - **Qlone**
 
-  - Mobile app for Android/iOS for free with limits
-  - Can make good looking 3D models around and under
+  - Mobile app for Android/iOS, free with limits
   - Can generate animations and has AR functionality
-  - _Needs right size printed Qlone mat under the object_
-
-- **3D Live Scanner**
-  - Mobile app for Android for free with advertisements, early access
-  - Quite promising application; result depends on the phone camera features (better with a ToF sensor)
-  - _VR view_
+  - Needs right size printed Qlone mat under the object
   </details>
 
 <details>

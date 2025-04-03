@@ -4,7 +4,7 @@ This repository provides examples of using 3D models and virtual tours on the we
 
 ## Creating 3D Models
 
-An object or space can be converted into a 3D mesh using LiDAR scanning or photogrammetry. The former requires a device with a LiDAR sensor, whereas the latter relies on capturing multiple overlapping photographs from various angles to reconstruct the 3D geometry.
+An object or space can be converted into a 3D mesh using LiDAR scanning or photogrammetry. The former requires a device with a LiDAR sensor, whereas the latter relies on capturing multiple overlapping images from various angles to reconstruct the 3D geometry.
 
 Here are some example applications for LiDAR scanning and photogrammetry.
 
@@ -13,7 +13,7 @@ Here are some example applications for LiDAR scanning and photogrammetry.
 3. [3D Scanner App](3DModels/creating/3d-scanner-app.md)
 4. [Photogrammetry with Meshroom](3DModels/creating/meshroom.md)
 
-## Displaying 3D Models on a webpage
+## Displaying 3D Models
 
 Three.js is one of the most widely used libraries for creating and rendering 3D content on the web. Additionally, model viewers can be used to display, inspect, and embed models in applications.
 
@@ -34,7 +34,9 @@ Here are some technologies for creating virtual tours. There are also many other
 
 ## Documentation
 
-#### Apps for Mobile and 3D Scanning
+Here are some notes we made during the project.
+
+### Apps for Mobile and 3D Scanning
 
 <details>
   <summary>Photogrammetry</summary>

@@ -38,7 +38,7 @@ Here are some notes we made during the project.
 
 ### Apps for Mobile and 3D Scanning
 
-<details>
+<details style="background-color: #f0f0f0; color: #333;">
   <summary>Photogrammetry</summary>
 
 - **Qlone**
@@ -126,7 +126,7 @@ Here are some notes we made during the project.
   - _Has easy-to-follow tutorials_
   </details>
 
-#### Common File Formats
+### Common File Formats
 
 <details>
   <summary>Mesh Data Formats</summary>
@@ -185,7 +185,7 @@ Here are some notes we made during the project.
   - _Large file size_
   </details>
 
-#### Model Viewers
+### Model Viewers
 
 <details>
   <summary>3D Model Viewer Web‑apps</summary>
@@ -265,7 +265,7 @@ Here are some notes we made during the project.
   - _Only available for Mac; cannot export GLBT/GLD file format_
   </details>
 
-#### Virtual Tours
+### Virtual Tours
 
 <details>
   <summary>Professional Virtual Tour Web‑apps</summary>
@@ -330,7 +330,7 @@ Here are some notes we made during the project.
   - _Requires understanding of code and some coding skills for advanced customization_
   </details>
 
-#### Converters
+### Converters
 
 <details>
   <summary>Sphere to Cube Converters</summary>
@@ -350,7 +350,7 @@ Here are some notes we made during the project.
   - _Pictures won’t be loaded on someone else’s server_
   </details>
 
-#### Photo Stitching Software
+### Photo Stitching Software
 
 <details>
   <summary>Panorama Stitching Apps</summary>
@@ -383,7 +383,7 @@ Here are some notes we made during the project.
   - _Details not provided_
   </details>
 
-#### Cameras
+### Cameras
 
 <details>
   <summary>Popular 3D Auto Stitching Cameras</summary>

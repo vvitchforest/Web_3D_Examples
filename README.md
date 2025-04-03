@@ -1,13 +1,11 @@
 # 3D Models and Virtual Tour on the Web
 
-This repository provides examples of using 3D models and virtual tours on the web.  
-First, we explore technologies that can be used to generate and display 3D models of spaces and objects.
-Then we demonstrate techniques for creating virtual tours.
-Documentation summarizes technologies and applications used to create these examples.
+This repository provides examples of using 3D models and virtual tours on the web. First, we explore technologies that can be used to generate and display 3D models of spaces and objects. Then we demonstrate techniques for creating virtual tours. Documentation summarizes technologies and applications used to create these examples.
 
 ## Creating 3D Models
 
 An object or space can be converted into a 3D mesh using LiDAR scanning or photogrammetry. The former requires a device with a LiDAR sensor, whereas the latter relies on capturing multiple overlapping photographs from various angles to reconstruct the 3D geometry.
+
 Here are some example applications for LiDAR scanning and photogrammetry.
 
 1. [Scaniverse](3DModels/creating/scaniverse.md)
@@ -18,6 +16,7 @@ Here are some example applications for LiDAR scanning and photogrammetry.
 ## Displaying 3D Models on a webpage
 
 Three.js is one of the most widely used libraries for creating and rendering 3D content on the web. Additionally, model viewers can be used to display, inspect, and embed models in applications.
+
 Here are some examples of how to add 3D content on the webpage or application.
 
 1. [Three.js](3DModels/viewing/threejs.md)

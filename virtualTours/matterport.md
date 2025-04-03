@@ -8,7 +8,7 @@
 
 [![Media Lab 3D Model](../images/medialab-model.PNG)](https://discover.matterport.com/space/pEbNwaqkErA)
 
-**Karamalmi Campus**
+**Karamalmi Campus Virtual Tour**
 
 [![Matterport Virtual Tour](../images/matterport.PNG)](https://discover.matterport.com/space/T32nCkyJRpv)
 

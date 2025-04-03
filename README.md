@@ -7,7 +7,7 @@ Documentation summarizes technologies and applications used to create these exam
 
 ## Creating 3D Models
 
-An object or space can be converted into a 3D mesh using LiDAR scanning or photogrammetry. The former requires a device with a LiDAR sensor, whereas the latterwhereas the latter relies on capturing multiple overlapping photographs from various angles to reconstruct the 3D geometry.
+An object or space can be converted into a 3D mesh using LiDAR scanning or photogrammetry. The former requires a device with a LiDAR sensor, whereas the latter relies on capturing multiple overlapping photographs from various angles to reconstruct the 3D geometry.
 Here are some example applications for LiDAR scanning and photogrammetry.
 
 1. [Scaniverse](3DModels/creating/scaniverse.md)

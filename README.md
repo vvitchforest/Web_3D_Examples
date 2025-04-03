@@ -27,12 +27,10 @@ Displaying 3D models on the web:
 
 Technologies for building virtual tours:
 
-1. [Cupix Tour](virtualTours/cupix-tour.md)
-2. [Matterport](virtualTours/matterport.md)
-3. [Pannellum](virtualTours/pannellum.md)
-4. [Roundme](virtualTours/roundme.md)
-5. [Media Lab with Matterport](virtualTours/medialab-matterport.md)
-6. [Metareal Virtual Tour](virtualTours/metareal-virtual-tour.md)
+1. [Matterport](virtualTours/matterport.md)
+2. [Pannellum](virtualTours/pannellum.md)
+3. [Roundme](virtualTours/roundme.md)
+4. [Metareal](virtualTours/metareal-virtual-tour.md)
 
 ## Documentation
 

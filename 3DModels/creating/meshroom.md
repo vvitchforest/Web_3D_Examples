@@ -1,6 +1,6 @@
 # Meshroom
 
-[![Candle Model created with Meshroom](../../images/meshroom.png)](https://sketchfab.com/3d-models/candle-c430c6d0120c4ad18f80a912b05fd84a)
+[![Candle Model created with Meshroom](../../images/meshroom.PNG)](https://sketchfab.com/3d-models/candle-c430c6d0120c4ad18f80a912b05fd84a)
 
 ---
 

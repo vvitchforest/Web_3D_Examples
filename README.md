@@ -1,4 +1,4 @@
-# 3D Models and Virtual Tour on the Web
+# 3D Models and Virtual Tours on the Web
 
 This repository provides examples of using 3D models and virtual tours on the web. First, we explore technologies that can be used to generate and display 3D models of spaces and objects. Then we demonstrate techniques for creating virtual tours. Documentation summarizes technologies and applications used to create these examples.
 

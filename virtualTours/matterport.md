@@ -1,12 +1,15 @@
 # Matterport
 
-**Media Lab Virtual Tour**  
+**Media Lab Virtual Tour**
+
 [![Media Lab Virtual Tour](../images/medialab-tour.PNG)](https://discover.matterport.com/space/pEbNwaqkErA)
 
-**Media Lab 3D Model**  
+**Media Lab 3D Model**
+
 [![Media Lab 3D Model](../images/medialab-model.PNG)](https://discover.matterport.com/space/pEbNwaqkErA)
 
-**Karamalmi Campus**  
+**Karamalmi Campus**
+
 [![Matterport Virtual Tour](../images/matterport.PNG)](https://discover.matterport.com/space/T32nCkyJRpv)
 
 **Matterport** is a platform that creates immersive 3D models and virtual tours from 360° scans of real-world spaces. It uses cameras like the Matterport Pro2 to capture detailed spatial data, which is then processed in the cloud to generate a 3D model and a virtual tour of the space. Within the Matterport cloud, additional details such as annotations can be added. A link to the virtual tour can be embedded into a webpage. Note that even with a paid subscription, downloading the 3D model of the space incurs an extra fee.
@@ -32,10 +35,6 @@ Matterport also offers API and SDK developer tools that allow integration into t
   Ideal for galleries, shops, schools, and workplaces.
 - **Architecture/Construction:**  
   Showcase spaces and buildings; especially useful when purchasing CAD and BIM files.
-
----
-
-## Additional Examples
 
 ---
 

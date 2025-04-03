@@ -41,12 +41,12 @@ Here are some notes we made during the project.
 <details >
   <summary>Photogrammetry</summary>
 
-- **Qlone**
+**Qlone**
 
-  - Mobile app for Android/iOS, free with limits
-  - Can generate animations and has AR functionality
-  - Needs right size printed Qlone mat under the object
-  </details>
+- Mobile app for Android/iOS, free with limits
+- Can generate animations and has AR functionality
+- Needs right size printed Qlone mat under the object
+</details>
 
 <details>
   <summary>LiDAR</summary>

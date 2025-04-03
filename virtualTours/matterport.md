@@ -1,6 +1,6 @@
 # Matterport
 
-[![Matterport Virtual Tour](../../images/matterport.PNG)](https://matterport.com)
+[![Matterport Virtual Tour](../images/matterport.PNG)](https://discover.matterport.com/space/T32nCkyJRpv)
 
 **Matterport** is a platform that creates immersive 3D models and virtual tours from 360° scans of real-world spaces. It uses cameras like the Matterport Pro2 to capture detailed spatial data, which is then processed in the cloud to generate a 3D model and a virtual tour of the space. In Matterport cloud, some details like annotations with information can be added. A link to the virtual tour can be embedded to a webpage. However, even with a paid subscription, downloading the 3D model of the space will cost additional fee.
 

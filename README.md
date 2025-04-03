@@ -2,21 +2,23 @@
 
 This repository provides examples of using 3D models and virtual tours on the web.  
 First, we explore technologies that can be used to generate and display 3D models of spaces and objects.
-Then we demonstrate and compare techniques for creating virtual tours.
+Then we demonstrate techniques for creating virtual tours.
 Documentation summarizes technologies and applications used to create these examples.
 
 ## Creating 3D Models
 
-Some technologies for generating 3D models of objects and spaces:
+An object or space can be converted into a 3D mesh using LiDAR scanning or photogrammetry. The former requires a device with a LiDAR sensor, whereas the latterwhereas the latter relies on capturing multiple overlapping photographs from various angles to reconstruct the 3D geometry.
+Here are some example applications for LiDAR scanning and photogrammetry.
 
 1. [Scaniverse](3DModels/creating/scaniverse.md)
 2. [Polycam](3DModels/creating/polycam.md)
 3. [3D Scanner App](3DModels/creating/3d-scanner-app.md)
 4. [Photogrammetry with Meshroom](3DModels/creating/meshroom.md)
 
-## Viewing 3D Models
+## Displaying 3D Models on a webpage
 
-Displaying 3D models on the web:
+Three.js is one of the most widely used libraries for creating and rendering 3D content on the web. Additionally, model viewers can be used to display, inspect, and embed models in applications.
+Here are some examples of how to add 3D content on the webpage or application.
 
 1. [Three.js](3DModels/viewing/threejs.md)
 2. [Sketchfab](3DModels/viewing/sketchfab.md)
@@ -25,12 +27,11 @@ Displaying 3D models on the web:
 
 ## Virtual Tours
 
-Technologies for building virtual tours:
+Here are some technologies for creating virtual tours. There are also many other platforms for creating virtual tours, for example [Koala360](https://koala360.com/).
 
 1. [Matterport](virtualTours/matterport.md)
 2. [Pannellum](virtualTours/pannellum.md)
-3. [Roundme](virtualTours/roundme.md)
-4. [Metareal](virtualTours/metareal-virtual-tour.md)
+3. [Metareal](virtualTours/metareal-virtual-tour.md)
 
 ## Documentation
 

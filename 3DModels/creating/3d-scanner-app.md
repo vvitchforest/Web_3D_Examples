@@ -9,6 +9,7 @@ This example shows two different scan outputs of a turtle statue captured using 
 [![Turtle Mesh](../../images/turtle-mesh.PNG)](https://sketchfab.com/models/e070f5500c6346c5bd921618a1be1ef0/embed)
 
 _[Turtle mesh scan taken with the 3D Scanner App, exported in .glb format](https://sketchfab.com/models/e070f5500c6346c5bd921618a1be1ef0/embed)_
+<br><br>
 
 [![Turtle Point Cloud](../../images/turtle-pointcloud.PNG)](https://sketchfab.com/models/0b36415c5be94e8f84e2e6e4e2408bc6/embed)
 

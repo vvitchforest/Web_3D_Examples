@@ -6,7 +6,7 @@ LiDAR mode captures depth data in real time, making it fast and suitable for sca
 
 This example shows graffiti wall captured with Polycam's LiDAR mode.
 
-[![Polycam](../../images/polycam.jpg)](https://poly.cam/capture/6AE6794F-1FFC-463A-A39A-5903AD5E1081)
+[![Polycam](../../images/polycam.PNG)](https://poly.cam/capture/6AE6794F-1FFC-463A-A39A-5903AD5E1081)
 
 _[Graffiti model created with Polycam](https://poly.cam/capture/6AE6794F-1FFC-463A-A39A-5903AD5E1081)_
 

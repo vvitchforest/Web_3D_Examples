@@ -2,18 +2,22 @@
 
 This repository provides examples of using 3D models and virtual tours on the web. First, we explore technologies that can be used to generate and display 3D models of spaces and objects. Then we demonstrate techniques for creating virtual tours. Documentation summarizes technologies and applications used to create these examples.
 
-## Creating 3D Models
+## 3D Models
 
-An object or space can be converted into a 3D mesh using LiDAR scanning or photogrammetry. The former requires a device with a LiDAR sensor, whereas the latter relies on capturing multiple overlapping images from different angles to make a 3D geometry.
+### Creating with LiDAR and Photogrammetry
+
+LiDAR scanning or photogrammetry are techniques for creating 3D models of real world objects. They do not require modelling or texturing using a 3D software, but the resulting models can be imported to Blender for cleaning the geometry or further processing.
+
+LiDAR scanning requires a mobile device with a LiDAR sensor, whereas photogrammetry can be created with any camera, since it is based on capturing overlapping images from different angles to create a 3D geometry.
 
 Applications for LiDAR scanning and photogrammetry:
 
 1. [Scaniverse](3DModels/creating/scaniverse.md)
 2. [Polycam](3DModels/creating/polycam.md)
 3. [3D Scanner App](3DModels/creating/3d-scanner-app.md)
-4. [Photogrammetry with Meshroom](3DModels/creating/meshroom.md)
+4. [Meshroom](3DModels/creating/meshroom.md)
 
-## Displaying 3D Models
+### Displaying 3D Models
 
 Three.js is one of the most widely used libraries for creating and rendering 3D content on the web. Additionally, model viewers can be used to display, inspect, and embed models in applications.
 
@@ -41,6 +45,7 @@ There are also many other platforms for creating virtual tours, for example [Koa
 <details>
 
   <summary>Mobile Apps</summary>
+
 
 **Photogrammetry**
 
@@ -91,13 +96,13 @@ There are also many other platforms for creating virtual tours, for example [Koa
   - Full visibility into the photogrammetry pipeline
   - _Requires an NVIDIA CUDA-enabled GPU and works only on Windows and Linux._
 
-  - **RealityCapture**
-    - Commercial photogrammetry software developed by Capturing Reality
-    - Fast processing and high-quality 3D reconstructions
-    - Supports both photogrammetry and laser scans (LiDAR)
-    - Allows importing and combining images, laser scans, and GPS data
-    - Often used in professional workflows for games, film, cultural heritage, and architecture
-    - _Available only for Windows; free demo available with limitations, full version requires a license._
+- **RealityCapture**
+  - Commercial photogrammetry software developed by Capturing Reality
+  - Fast processing and high-quality 3D reconstructions
+  - Supports both photogrammetry and laser scans (LiDAR)
+  - Allows importing and combining images, laser scans, and GPS data
+  - Often used in professional workflows for games, film, cultural heritage, and architecture
+  - _Available only for Windows; free demo available with limitations, full version requires a license._
 
 </details>
 

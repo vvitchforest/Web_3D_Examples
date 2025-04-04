@@ -4,9 +4,9 @@ This repository provides examples of using 3D models and virtual tours on the we
 
 ## Creating 3D Models
 
-An object or space can be converted into a 3D mesh using LiDAR scanning or photogrammetry. The former requires a device with a LiDAR sensor, whereas the latter relies on capturing multiple overlapping images from various angles to reconstruct the 3D geometry.
+An object or space can be converted into a 3D mesh using LiDAR scanning or photogrammetry. The former requires a device with a LiDAR sensor, whereas the latter relies on capturing multiple overlapping images from different angles to make a 3D geometry.
 
-Here are some example applications for LiDAR scanning and photogrammetry.
+Applications for LiDAR scanning and photogrammetry:
 
 1. [Scaniverse](3DModels/creating/scaniverse.md)
 2. [Polycam](3DModels/creating/polycam.md)
@@ -17,7 +17,7 @@ Here are some example applications for LiDAR scanning and photogrammetry.
 
 Three.js is one of the most widely used libraries for creating and rendering 3D content on the web. Additionally, model viewers can be used to display, inspect, and embed models in applications.
 
-Here are some examples of how to add 3D content on the webpage or application.
+Here are some examples of how to add 3D content on the webpage or application:
 
 1. [Three.js](3DModels/viewing/threejs.md)
 2. [Sketchfab](3DModels/viewing/sketchfab.md)
@@ -26,159 +26,112 @@ Here are some examples of how to add 3D content on the webpage or application.
 
 ## Virtual Tours
 
-Here are some technologies for creating virtual tours. There are also many other platforms for creating virtual tours, for example [Koala360](https://koala360.com/).
+Some example virtual tours:
 
 1. [Matterport](virtualTours/matterport.md)
 2. [Pannellum](virtualTours/pannellum.md)
 3. [Metareal](virtualTours/metareal-virtual-tour.md)
 
+There are also many other platforms for creating virtual tours, for example [Koala360](https://koala360.com/).
+
 ## Documentation
 
-Here are some notes we made during the project.
-
-### Mobile Apps
-
-<details >
-  <summary>Photogrammetry</summary>
-
-
-**Qlone**
-
-- Mobile app for Android/iOS, free with limits
-- Can generate animations and has AR functionality
-- Needs right size printed Qlone mat under the object
-</details>
-
 <details>
-  <summary>LiDAR</summary>
+  <summary>Mobile Apps</summary>
+
+**Photogrammetry**
+
+- **Qlone**
+  - Mobile app for Android/iOS, free with limits
+  - Can generate animations and has AR functionality
+  - Needs right size printed Qlone mat under the object
+
+**LiDAR scanning**
 
 - **Scaniverse**
 
-  - Mobile scanner app for iOS, free
+  - Mobile scanner app for iOS and Android, free
   - AR view
-  - _Can scan little details, but not completely_
+  - Can scan little details
 
 - **3D Scanner App**
 
   - Mobile scanner app for iOS, free with limits
-  - Can get good results with larger objects
-  - Good in-app editor for trimming the model
-  - _AR view_
+  - In-app editor for trimming the model
+  - AR view
 
 - **Sitescape**
   - Mobile scan app for iOS, free with limits
-  - Handles big files (though slow) and allows adjustments in quality and point-size to minimize file size
+  - Handles large files (although slow)
+  - Allows adjustments in quality and point size
   - _Point-cloud data only_
-  </details>
 
-<details>
-  <summary>Both Photogrammetry and LiDAR</summary>
+**Both Photogrammetry and LiDAR**
 
 - **Polycam**
-
-  - Mobile app for iOS for free with limits
-  - Very good LiDAR scan results with big objects
+  - Mobile app for iOS and Android, free with limits
+  - Very good LiDAR scan results with large objects
   - Cuts out small elements on LiDAR scans (helpful to remove “noise”)
-  - Can get good results with photogrammetry when photos are taken around the object (good for AR)
-  - Can continue scan later by extending it
-  - _Result can be unexpected when trying to have a wholesome model (around and down parts)_
+  - Can get good results with photogrammetry when photos are taken around the object
 
-- **Metascan**
-  - Mobile scan app for iOS free with limits
-  - Can capture smaller details, though not very clearly
-  - Offers a good in-app trimming editor for LiDAR scans
-  - Good results with photogrammetry—but more suitable for AR
-  - _AR view_
-  </details>
+</details>
 
 <details>
-  <summary>TrueDepth</summary>
+  <summary>Common File Formats</summary>
 
-- **Capture: 3D Scan Anything**
+- **FBX**
 
-  - Mobile app for iOS, free
-  - Very good results with small and detailed objects
-  - Exports point-cloud data
-  - _USDZ file data comes without colors/textures_
-  - _Hard to scan objects with only the front camera_
-  - _AR view, but not very useful_
+  - Developed by Autodesk
+  - Supports meshes, materials, textures, and animation
+  - Common in game development, animation, and visual effects
+  - Supported by most software and game engines
+  - Proprietary format, large file size
 
-- **EM3D: Ethan Makes 3D Scanner**
-  - Mobile app for iOS, free with limits
-  - Good results with small and detailed objects
-  - Generates point-cloud data automatically into mesh data
-  - Can export different file types
-  - _Hard to scan objects with only the front camera; solution: use the EM3D: Mirror Saver app with a second phone as a second screen while scanning_
-  </details>
+- **glTF** (Graphics Library Transmission Format)
 
-<details>
-  <summary>Augmented Reality</summary>
-
-- **MyWebAR**
-  - Web-app, free with limits
-  - Easy interface to use 3D models to create AR content with QR codes
-  - Comes with ready-to-use templates
-  - _Has easy-to-follow tutorials_
-  </details>
-
-### Common File Formats
-
-<details>
-  <summary>Mesh Data Formats</summary>
-
-- **glTB**
-
-  - Open 3D format for the web (JSON/ASCII)
-  - Standard for web 3D models
-  - Small size
-
-- **GLB**
-
-  - Open 3D format for the web (binary glTF)
-  - Standard for web 3D models
-  - Small size
-
-- **USDZ**
-
-  - Best for ARKit and sharing on iPhones
-
-- **STL**
-  - Untextured file used in 3D printing
-  </details>
-
-<details>
-  <summary>Point-cloud Data Formats</summary>
-
-- **XYZ**
-
-  - Chemical file format
+  - Open standard developed by Khronos Group
+  - Standard file format for 3D scenes and models
+  - Two file extensions: .glTF (JSON/ASCII) and .glb (binary)
+  - Widely used on the web
+  - Small size, optimized for fast transmission
+  - Supports physically-based rendering (PBR)
+  - Extensible for animations, scenes, metadata
 
 - **LAS**
 
-  - Georeferenced color point-cloud, designed for the interchange and archiving of LiDAR data
-  - _Open binary format_
+  - Developed by ASPRS (American Society for Photogrammetry and Remote Sensing)
+  - Standard format for storing LiDAR point-cloud data
+  - Includes geospatial coordinates, intensity, color, classification info
+  - Used in mapping, surveying, and remote sensing
 
-- **E57**
-  - Vendor-neutral file format for storing and exchanging three-dimensional imaging data
-  </details>
+- **OBJ** (Wavefront Object)
 
-<details>
-  <summary>Both Mesh and Point-cloud Data Formats</summary>
+  - Text-based format for 3D geometry
+  - Stores vertices, normals, texture coordinates, and faces
+  - Uses .mtl files for materials
+  - Widely supported
+  - Large file size
 
 - **PLY**
 
-  - High-density color point-cloud
+  - Stores 3D data as a list of vertices and faces, with optional properties like color
+  - Can be ASCII (readable) or binary (compact)
+  - Used for 3D scanning and point-clouds
+  - Supports mesh and point-cloud data
 
-- **OBJ**
+- **STL**
 
-  - Text-based 3D model format
-  - Well supported
-  - _Large file size_
+  - Standard format for 3D printing
+  - Contains only geometry (no textures or colors)
+  - Common in prototyping and manufacturing workflows
 
-- **FBX**
-  - Supported by most software and game engines
-  - _Large file size_
-  </details>
+- **USDZ** (Universal Scene Description Zip)
+  - Developed by Apple and Pixar
+  - Compressed format including geometry, materials, textures, animations
+  - Optimized for AR on iOS devices (ARKit)
+  - Supports PBR and easy sharing across platforms
+
+</details>
 
 ### Model Viewers
 

@@ -37,7 +37,8 @@ There are also many other platforms for creating virtual tours, for example [Koa
 ## Documentation
 
 <details>
-  <summary>Mobile Apps</summary>
+
+  <summary>### Mobile Apps</summary>
 
 **Photogrammetry**
 
@@ -77,7 +78,7 @@ There are also many other platforms for creating virtual tours, for example [Koa
 </details>
 
 <details>
-  <summary>Common File Formats</summary>
+  <summary>### Common File Formats</summary>
 
 - **FBX**
 

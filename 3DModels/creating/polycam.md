@@ -1,42 +1,42 @@
 # Polycam
 
-[![](../../images/graffiti.jpg)](https://poly.cam/capture/6AE6794F-1FFC-463A-A39A-5903AD5E1081)
+**Polycam** is a mobile app for scanning 3D objects and spaces using both **LiDAR** and **photogrammetry**. LiDAR-based scanning works on newer iOS devices with built-in LiDAR sensors, while photogrammetry is supported on both iOS and Android devices.
 
-[Graffiti model created with Polycam](https://poly.cam/capture/6AE6794F-1FFC-463A-A39A-5903AD5E1081)
+LiDAR mode captures depth data in real time, making it fast and suitable for scanning larger spaces. Photogrammetry mode captures fine surface details from photos. Polycam also supports **Gaussian splatting**, which helps generate smooth, high-quality reconstructions.
+
+This example shows graffiti wall captured with Polycam's LiDAR mode.
+
+[![Polycam](../../images/polycam.jpg)](https://poly.cam/capture/6AE6794F-1FFC-463A-A39A-5903AD5E1081)
+
+_[Graffiti model created with Polycam](https://poly.cam/capture/6AE6794F-1FFC-463A-A39A-5903AD5E1081)_
 
 ---
 
-## Info
+## 🔑 Key Points
 
-**Polycam** is a mobile app for 3D scanning objects and spaces with LiDAR technology. Most of its features, including LiDAR capture and Room scanner, are only available on newer iOS devices that have a LiDAR sensors. The app also has Photogrammetry mode, which does not require LiDAR sensors and also works on Android phones.
-LiDAR mode uses the device's depth sensor to measure distance in real time, making it efficient and quick technique for scanning larger environemnts. On the other hand, photogrammetry mode is useful in cases where more precise detail is needed. Polycam supports Gausian splatting, which creates more realistic and detailed reconstructions of objects and spaces than photogrammetry.
+- 📱 Available for both iOS and Android
+- 🌀 Supports **LiDAR** and **photogrammetry** modes
+- ✨ Includes **Gaussian splatting** for higher detail
+- 📤 Export to formats like USDZ, GLB, OBJ
+- 🌐 Upload and view models on the web
 
-This example demonstrates the process of converting a point-cloud scan into a USDZ model using LiDAR. A piece of graffiti was scanned with an iPad Pro and the Polycam LiDAR scanner app, then processed and showcased on Sketchfab to display the USDZ format.
+---
 
-## Technologies
+## 🧰 Technologies and Process
 
-- **LiDAR Scan**  
-  Captured using an iPad Pro 2020 with a LiDAR sensor.
-- **Scanning App**  
-  Polycam LiDAR scanner app for iPad.
-- **Display Platform**  
-  Sketchfab, used for showing the model in USDZ format.
+- **Device:** iPad Pro 2020 with LiDAR
+- **Application:** Polycam LiDAR scanner
 
-## Working Process
+---
 
-1. The graffiti was scanned using the Polycam LiDAR scanner app on an iPad.
-2. The scan was uploaded to the Polycam cloud.
+## 💡 Where to Use
 
-## Where to Use
+- 🖼️ Preserve and share unique visuals — like a 3D photo
+- 🎮 Use in digital art, animation, or game design
+- 📱 Add to AR apps for real-world visualizations
 
-- **Memory & Sharing:**  
-  Preserve and share unique parts of a place, much like keeping photographs.
-- **Art & Game Graphics:**  
-  Use scanned models as assets in digital art or games.
-- **Augmented Reality:**  
-  Integrate with AR experiences to display virtual objects in real-world settings.
+---
 
-## Webpages
+## 🔗 Links
 
 - [poly.cam](https://poly.cam/)
-- [View Full Graffiti](https://poly.cam/capture/C90B337A-3D5A-4FBE-AA78-D90D6001DE2B)

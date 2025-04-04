@@ -1,10 +1,10 @@
 # Scaniverse
 
-**Scaniverse** is a mobile application that uses LiDAR technology to capture detailed 3D scans of environments and objects. The app allows users to quickly generate accurate 3D models with depth information. It is designed for iOS devices with LiDAR sensors, but can also be used in photogrammetry mode on iOS or Android devices that do not have LiDAR sensors. Scaniverse also includes support for Gaussian splatting on newer devices. This feature is used to enhance 3D scan quality by applying a point-based rendering technique that creates smoother and more detailed models.
+**Scaniverse** is a mobile application that uses LiDAR technology to capture detailed 3D scans of environments and objects. The app allows users to quickly generate 3D models with depth information. It is designed for iOS devices with LiDAR sensors, but can also be used in photogrammetry mode on iOS or Android devices that do not have LiDAR sensors. Scaniverse also includes support for Gaussian splatting on newer devices. This feature is used to enhance 3D scan quality by applying a point-based rendering technique that creates smoother and more detailed models.
 
-The app offers a user-friendly interface that allows users to quickly do the scans and fine-tune settings such as resolution and capture parameters. Features include real-time previewing and editing of scans, the ability to export models in common 3D file formats, and integration options for use in augmented reality (AR) and virtual reality (VR) applications.
+The resulting model can be viewed in the app, shared or exported for further processing. Scans can also be edited in the app. The models can be exported in the most common 3D formats.
 
-The whole process of creating a scan is done on the mobile device, making it very easy to use. The resulting model can be viewed in the app, shared or exported for further processing.
+The whole process of creating a scan is done on the mobile device, making it very easy to use.
 
 This example demonstrates a scan of a media lab taken using a device with a LiDAR scanner.
 
@@ -19,7 +19,6 @@ _[Media lab scanned with Scaniverse app](https://sketchfab.com/3d-models/scanive
 - 📱 Works on iOS (LiDAR) and Android (photogrammetry)
 - ✨ Supports **Gaussian splatting** for high-quality rendering
 - 📤 Export to multiple 3D file formats
-- 🕶️ AR and VR integration capabilities
 - 📦 Entire process handled on mobile — no PC needed
 
 ---
@@ -27,7 +26,7 @@ _[Media lab scanned with Scaniverse app](https://sketchfab.com/3d-models/scanive
 ## 🧰 Technologies and Process
 
 - **Device:** iPad Pro 2020 with LiDAR
-- **Software:** Scaniverse LiDAR scanner app for iPad
+- **Application:** Scaniverse LiDAR scanner app for iPad
 
 ---
 

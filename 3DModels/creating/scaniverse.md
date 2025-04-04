@@ -23,7 +23,7 @@ _[Media lab scanned with Scaniverse app](https://sketchfab.com/3d-models/scanive
 
 ---
 
-## 🧰 Technologies and Process
+## 🧰 Technologies
 
 - **Device:** iPad Pro 2020 with LiDAR
 - **Application:** Scaniverse LiDAR scanner app for iPad

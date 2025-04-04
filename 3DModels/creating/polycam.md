@@ -22,7 +22,7 @@ _[Graffiti model created with Polycam](https://poly.cam/capture/6AE6794F-1FFC-46
 
 ---
 
-## 🧰 Technologies and Process
+## 🧰 Technologies
 
 - **Device:** iPad Pro 2020 with LiDAR
 - **Application:** Polycam LiDAR scanner
@@ -31,9 +31,9 @@ _[Graffiti model created with Polycam](https://poly.cam/capture/6AE6794F-1FFC-46
 
 ## 💡 Where to Use
 
-- 🖼️ Preserve and share unique visuals — like a 3D photo
-- 🎮 Use in digital art, animation, or game design
-- 📱 Add to AR apps for real-world visualizations
+- Preserve and share unique visuals — like a 3D photo
+- Use in digital art, animation, or game design
+- Add to AR apps for real-world visualizations
 
 ---
 

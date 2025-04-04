@@ -1,34 +1,54 @@
 # Meshroom
 
+**Meshroom** is an open-source photogrammetry software developed by the AliceVision Association.  
+It creates 3D models by processing multiple photos taken from different angles of a real-world object.
+
+This example shows a candle model made from 58 images processed through Meshroom and later uploaded to Sketchfab.
+
 [![Candle Model created with Meshroom](../../images/meshroom.PNG)](https://sketchfab.com/3d-models/candle-c430c6d0120c4ad18f80a912b05fd84a)
 
----
-
-## Info
-
-Photogrammetry is a technique that creates a 3D model from multiple images. In this example, 50 images were captured with an iPhone SE and processed using Meshroom, an open-source 3D reconstruction software by the AliceVision Association.
+_[View Candle Model on Sketchfab](https://sketchfab.com/3d-models/candle-c430c6d0120c4ad18f80a912b05fd84a)_
 
 ---
 
-## Working Process
+## 🔑 Key Points
 
-1. 58 images of an object were taken from different angles without moving the object. Images were taken in natural light with black background.
-2. The images were converted to JPG format and uploaded to Meshroom for reconstruction. For more details, see the [Meshroom photogrammetry pipeline](https://alicevision.org/#photogrammetry).
-3. The resulting mesh was cleaned up in Blender and exported in GLB format.
-4. The 3D model uploaded to sketchfab for viewing.
-
----
-
-## Where to Use
-
-- **Studying and Experimenting:**  
-  Explore and learn photogrammetry techniques.
-- **Cultural and Artistic Projects:**  
-  Use 3D models for creative or exhibition projects.
-- **Use as assets for games**
+- 📸 Based on photogrammetry — turning images into 3D models
+- 🧪 Great for experimentation and learning
+- 🖥️ Open-source and fully customizable
+- 🧵 Integrates with Blender for cleanup and optimization
+- 🔗 Supports export to formats like GLB
 
 ---
 
-## Webpages
+## 🧰 Technologies
+
+- **Device:** iPhone SE (used to take 58 images)
+- **Application:** Meshroom (by AliceVision)
+- **Post-processing:** Blender
+- **Viewer:** Sketchfab
+
+---
+
+## ⚙️ Working Process
+
+1. 58 images were taken around the object (without moving it), in natural lighting and with a black background.
+2. Images were converted to JPG format and imported into Meshroom.
+3. Meshroom reconstructed the 3D model using its photogrammetry pipeline.  
+   [More on the pipeline](https://alicevision.org/#photogrammetry)
+4. The mesh was refined in Blender and exported to GLB.
+5. The final model was uploaded to Sketchfab for display.
+
+---
+
+## 💡 Where to Use
+
+- 🧠 Learn and experiment with photogrammetry
+- 🎨 Use in cultural and artistic projects
+- 🕹️ Add custom 3D assets to games
+
+---
+
+## 🔗 Links
 
 - [alicevision.org](https://alicevision.org/)

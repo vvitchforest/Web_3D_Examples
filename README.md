@@ -80,6 +80,28 @@ There are also many other platforms for creating virtual tours, for example [Koa
 </details>
 
 <details>
+
+<summary>Photogrammetry Software</summary>
+
+- **Meshroom**
+
+  - Open-source photogrammetry software by AliceVision
+  - Easy to get started with, but also highly customizable for advanced workflows
+  - Produces high-quality 3D models from photos
+  - Full visibility into the photogrammetry pipeline
+  - _Requires an NVIDIA CUDA-enabled GPU and works only on Windows and Linux._
+
+  - **RealityCapture**
+    - Commercial photogrammetry software developed by Capturing Reality
+    - Fast processing and high-quality 3D reconstructions
+    - Supports both photogrammetry and laser scans (LiDAR)
+    - Allows importing and combining images, laser scans, and GPS data
+    - Often used in professional workflows for games, film, cultural heritage, and architecture
+    - _Available only for Windows; free demo available with limitations, full version requires a license._
+
+</details>
+
+<details>
   <summary>Common File Formats</summary>
 
 - **FBX**
@@ -217,20 +239,22 @@ There are also many other platforms for creating virtual tours, for example [Koa
 <details>
 <summary>Professional Virtual Tours</summary>
 
-- **Matterport**  
-  -Professional platform for creating immersive 3D virtual tours and spatial models
-  -Automatically generates high-quality tours and mesh models from 360° scans  
-  -Requires a compatible Matterport camera and cloud processing
-  -Offers features like MatterTags, floor plans, and measurement tools
-  -Expensive! (Exporting models or using developer tools (API, SDK) requires additional licenses or fees)
+- **Matterport**
 
-- **Metareal**  
-  -A browser-based platform for building 3D virtual tours and models using 360° images
-  -Can use any camera
-  -Supports creation of 3D models from depth maps and offers editing environment
-  -Includes an SDK for custom feature development.  
-  -Has a learning curve, especially for advanced editing tools
-  _Note: During testing, the editor was not fully working in Safari._
+  - Professional platform for creating immersive 3D virtual tours and spatial models
+  - Automatically generates high-quality tours and mesh models from 360° scans
+  - Requires a compatible Matterport camera and cloud processing
+  - Offers features like MatterTags, floor plans, and measurement tools
+  - Expensive! (Exporting models or using developer tools (API, SDK) requires additional licenses or fees)
+
+- **Metareal**
+
+  - A browser-based platform for building 3D virtual tours and models using 360° images
+  - Can use any camera
+  - Supports creation of 3D models from depth maps and offers editing environment
+  - Includes an SDK for custom feature development.
+  - Has a learning curve, especially for advanced editing tools
+    _Note: During testing, the editor was not fully working in Safari._
 
 - **Krpano**  
   -A software for building virtual tours from 360° images and depth maps
@@ -239,69 +263,42 @@ There are also many other platforms for creating virtual tours, for example [Koa
 
 </details>
 
-### Converters
-
 <details>
   <summary>Sphere to Cube Converters</summary>
 
 - **Nadirpatch**
 
-  - Easy to use
-  - _Erases uploaded pictures after 1 hour_
-
-- **jaxry.github.io**
-
-  - _Details not provided_
+  - Web tool to convert sphere projection to cube projection
 
 - **Matheowis**
-  - Open source
-  - Can choose picture quality
-  - _Pictures won’t be loaded on someone else’s server_
-  </details>
 
-### Photo Stitching Software
+  - Open source
+  - Can choose image quality
+  </details>
 
 <details>
   <summary>Panorama Stitching Apps</summary>
 
 - **PTGui**
 
-  - Easy to use, automatic
-  - _Not free_
-
-- **Easypano**
-
-  - _Not free_
+  - Panoramic image stitching software for Windows, macOS and Linux
+  - Easy to use, fast and automatic
+  - Can try for free, but stitched panoramas will have a watermark
+  - A license can be purchased once, no need for subscription
 
 - **Hugin**
-  - Free
-  - _Hard to use; requires a deeper understanding of photography_
+  - Free and open-source panorama stitching software
+  - Tools for aligning images manually, time-consuming!
+  - Has a steeper learning curve; some understanding of photography and projections is helpful
   </details>
 
 <details>
-  <summary>Photogrammetry Software</summary>
+  <summary>Widely Used Auto Stitching Cameras</summary>
 
-- **Meshroom**
-
-  - High quality results
-  - Easy to start with, yet fully customizable for advanced users
-  - Provides extensive information about the photogrammetry pipeline
-  - _Requires an NVIDIA CUDA-enabled GPU and is only available for Windows and Linux_
-
-- **Capturingreality**
-  - _Details not provided_
-  </details>
-
-### Cameras
-
-<details>
-  <summary>Popular 3D Auto Stitching Cameras</summary>
-
-- **Yi**
-- **Insta360 One**
-- **Mi Sphere**
-- **Qoocam**
-- **Fusion**
+- **Insta360**
+- **Xiaomi Mi Sphere 360**
+- **QooCam**
+- **Go Pro Fusion**
 </details>
 
 <details>
@@ -320,7 +317,6 @@ There are also many other platforms for creating virtual tours, for example [Koa
   - _Works only with the Matterport mobile app and requires a Matterport subscription_
   - _Matterport cameras are supported only with the Matterport cloud professional plan_
   - _Cannot get high-quality 360° pictures out from the cloud_
-  - _In-app purchases for each virtual tour separately, even for the 3D model_
     </details>
 
        </details>

@@ -36,6 +36,8 @@ There are also many other platforms for creating virtual tours, for example [Koa
 
 ## Documentation
 
+###3D Models
+
 <details>
 
   <summary>Mobile Apps</summary>
@@ -137,11 +139,11 @@ There are also many other platforms for creating virtual tours, for example [Koa
 <details>
   <summary>Model Viewers</summary>
 
-- **Gltf-viewer**
+- **Gltf Viewer**
 
   - Open-source web tool for inspecting glTF/glb models
 
-- **3dviewer**
+- **3D Viewer**
 
   - Accepts a wide range of 3D file formats
   - Useful for quick previews
@@ -180,67 +182,61 @@ There are also many other platforms for creating virtual tours, for example [Koa
 ### Virtual Tours
 
 <details>
-  <summary>Professional Virtual Tour Web‑apps</summary>
+<summary>Lightweight Virtual Tour Web Tools</summary>
 
-- **Cupix**
+- **Koala360**
 
-  - Can generate 3D models (alternative to Matterport)
+  - Platform for creating and sharing interactive 360° virtual tours
+  - Used for example in real estate, tourism, education
+  - Tours can include hotspots, info panels, and media
+  - No coding required
 
-- **Metareal**
+- **Momento360**  
+  -A web-based platform for displaying and embedding 360° photos
+  -Great for making panoramic content quickly, or building simple virtual tours
+  -No coding required
 
-  - Can create 3D models from depth maps (alternative to Matterport)
-  - Can use any 360° images to create virtual tours
-  - Can customize content through an SDK
-  - _Takes time to learn how to use the editor_
-  - _Not always working in Safari_
-
-- **Matterport**
-  - Easy to use
-  - Automatically generates high-quality 3D models and virtual tours
-  - _Only works with certain cameras_
-  - _Expensive (subscription plan; exports purchased separately; Showcase SDK requires production license)_
-  - _Free plan is practically useless (does not allow uploading scans created with a Matterport camera to the Matterport cloud)_
-  </details>
+</details>
 
 <details>
-  <summary>Lightweight Virtual Tour Web‑apps</summary>
+<summary>Lightweight Virtual Tour Libraries</summary>
 
-- **RoundMe**
+- **Pannellum**  
+  -Open source panorama viewer for the web  
+  -Easy to use
 
-  - Simple and easy to use
+- **Marzipano**  
+  -Open source panorama viewer for the web  
+  -Easy to use  
+  -Includes a web editor  
+  -Automatically converts spherical panoramas to cube format
 
-- **Momento360**
-  - _Details not provided_
-  </details>
-
-<details>
-  <summary>Lightweight Virtual Tour Libraries</summary>
-
-- **Pannellum**
-
-  - Open source panorama viewer for the web
-  - Easy to use
-
-- **Marzipano**
-
-  - Open source panorama viewer for the web
-  - Easy to use and fast
-  - Includes a web editor
-  - Automatically converts sphere panorama pictures to cube pictures
-
-- **Panolens.js**
-  - _Details not provided_
-  </details>
+</details>
 
 <details>
-  <summary>Lightweight Virtual Tour App + Depth Map</summary>
+<summary>Professional Virtual Tours</summary>
 
-- **Krpano**
-  - Can create a virtual tour from depth maps
-    - _Use Everpano first to create depth maps_
-    - _Use the PanocamAdder plugin with Blender to create 3D models from equirectangular panoramas (generates OBJ files)_
-  - _Requires understanding of code and some coding skills for advanced customization_
-  </details>
+- **Matterport**  
+  -Professional platform for creating immersive 3D virtual tours and spatial models
+  -Automatically generates high-quality tours and mesh models from 360° scans  
+  -Requires a compatible Matterport camera and cloud processing
+  -Offers features like MatterTags, floor plans, and measurement tools
+  -Expensive! (Exporting models or using developer tools (API, SDK) requires additional licenses or fees)
+
+- **Metareal**  
+  -A browser-based platform for building 3D virtual tours and models using 360° images
+  -Can use any camera
+  -Supports creation of 3D models from depth maps and offers editing environment
+  -Includes an SDK for custom feature development.  
+  -Has a learning curve, especially for advanced editing tools
+  _Note: During testing, the editor was not fully working in Safari._
+
+- **Krpano**  
+  A powerful tool for building virtual tours from 360° images and depth maps.  
+  Supports advanced features like 3D transitions and integration with custom plugins.  
+  Requires some coding knowledge for customization and more complex setups.
+
+</details>
 
 ### Converters
 

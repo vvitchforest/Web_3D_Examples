@@ -38,7 +38,7 @@ There are also many other platforms for creating virtual tours, for example [Koa
 
 <details>
 
-  <summary>### Mobile Apps</summary>
+  <summary>Mobile Apps</summary>
 
 **Photogrammetry**
 
@@ -78,7 +78,7 @@ There are also many other platforms for creating virtual tours, for example [Koa
 </details>
 
 <details>
-  <summary>### Common File Formats</summary>
+  <summary>Common File Formats</summary>
 
 - **FBX**
 
@@ -134,85 +134,48 @@ There are also many other platforms for creating virtual tours, for example [Koa
 
 </details>
 
-### Model Viewers
-
 <details>
-  <summary>3D Model Viewer Web‑apps</summary>
-
-- **Sketchfab**
-
-  - Easy to use
-  - Can sell your models on their webpage
-
-- **clara.io**
-  - Advanced editor
-  - Offers many functionalities
-  - _Not so easy to understand interface_
-  - _Viewer won’t show hotspots with embed iframe_
-  - _Viewer navigation may not work well in different browsers_
-  </details>
-
-<details>
-  <summary>3D Model Viewer Libraries</summary>
-
-- **Three.js**
-
-  - Advanced level; build from scratch
-  - Used as a base for other panorama and model viewer libraries
-  - _Hard to learn; requires writing a lot of code_
-
-- **babylon.js**
-
-  - Advanced level; build from scratch
-
-- **Model-viewer**
-  - Easy to use
-  - Comes with a web editor
-  </details>
-
-<details>
-  <summary>Online 3D Model Viewers for Testing</summary>
+  <summary>Model Viewers</summary>
 
 - **Gltf-viewer**
 
-  - With Git repository
-  - Offers many control parameters for testing
-  - _Accepts only glTF/GLB file format_
+  - Open-source web tool for inspecting glTF/glb models
 
 - **3dviewer**
 
-  - Accepts a wide range of formats
+  - Accepts a wide range of 3D file formats
+  - Useful for quick previews
 
-- **Model-viewer editor**
-  - More useful for a quick view
-  - _Accepts only glTF/GLB file format_
-  </details>
+- **Model Viewer**
+  - Web editor based on `<model-viewer>`
+  - _Accepts only glTF/GLB formats_
+
+</details>
 
 <details>
-  <summary>3D Model Viewer Apps/File Converters</summary>
+  <summary>Libraries & Frameworks</summary>
 
-- **Blender**
+- **Three.js**
 
-  - Can import and export formats like OBJ, DAE, PLY, GLB, etc.
-  - Cleans up virtual models
-  - Can create complex 3D sculptures and animations
-  - Free to use
-  - _Hard to learn_
+  - JavaScript library for creating and rendering 3D graphics in the browser using WebGL
+  - Widely used for 3D experiences, games, and visualisations
+  - Supports scenes, lighting, cameras, animation, physics, and more
+  - Requires JavaScript knowledge and manual setup
 
-- **Meshlab**
+-- **Babylon.js**
 
-  - Can import and export formats like OBJ, DAE, PLY, etc.
-  - Cleans up virtual models
-  - Can generate mesh data from point-clouds
-  - Free to use
-  - _Cannot export GLB_
+- JavaScript engine for building 3D games and interactive web applications
+- Supports advanced features like physics, animations, and PBR materials
+- Comes with a visual editor and extensive documentation
+- Great for developers focused on game-like experiences
 
-- **Xcode**
-  - Can open USDZ files (developed by Apple and Pixar Animation Studios)
-  - Can export formats like OBJ, DAE, etc.
-  - Free to use
-  - _Only available for Mac; cannot export GLBT/GLD file format_
-  </details>
+- **Model-viewer**
+  - Lightweight library for displaying 3D models in the browser
+  - Simple to set up and ideal for non-developers
+  - Supports AR on compatible devices
+  - Includes a web-based editor for customizing settings and generating embed code
+
+</details>
 
 ### Virtual Tours
 

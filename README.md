@@ -36,7 +36,7 @@ There are also many other platforms for creating virtual tours, for example [Koa
 
 ## Documentation
 
-###3D Models
+### 3D Models
 
 <details>
 
@@ -164,12 +164,12 @@ There are also many other platforms for creating virtual tours, for example [Koa
   - Supports scenes, lighting, cameras, animation, physics, and more
   - Requires JavaScript knowledge and manual setup
 
--- **Babylon.js**
+- **Babylon.js**
 
-- JavaScript engine for building 3D games and interactive web applications
-- Supports advanced features like physics, animations, and PBR materials
-- Comes with a visual editor and extensive documentation
-- Great for developers focused on game-like experiences
+  - JavaScript engine for building 3D games and interactive web applications
+  - Supports advanced features like physics, animations, and PBR materials
+  - Comes with a visual editor and extensive documentation
+  - Great for developers focused on game-like experiences
 
 - **Model-viewer**
   - Lightweight library for displaying 3D models in the browser
@@ -191,25 +191,26 @@ There are also many other platforms for creating virtual tours, for example [Koa
   - Tours can include hotspots, info panels, and media
   - No coding required
 
-- **Momento360**  
-  -A web-based platform for displaying and embedding 360° photos
-  -Great for making panoramic content quickly, or building simple virtual tours
-  -No coding required
+- **Momento360**
+  - A web-based platform for displaying and embedding 360° photos
+  - Great for making panoramic content quickly, or building simple virtual tours
+  - No coding required
 
 </details>
 
 <details>
 <summary>Lightweight Virtual Tour Libraries</summary>
 
-- **Pannellum**  
-  -Open source panorama viewer for the web  
-  -Easy to use
+- **Pannellum**
 
-- **Marzipano**  
-  -Open source panorama viewer for the web  
-  -Easy to use  
-  -Includes a web editor  
-  -Automatically converts spherical panoramas to cube format
+  - Open source panorama viewer for the web
+  - Easy to use
+
+- **Marzipano**
+  - Open source panorama viewer for the web
+  - Easy to use
+  - Includes a web editor
+  - Automatically converts spherical panoramas to cube format
 
 </details>
 
@@ -232,9 +233,9 @@ There are also many other platforms for creating virtual tours, for example [Koa
   _Note: During testing, the editor was not fully working in Safari._
 
 - **Krpano**  
-  A powerful tool for building virtual tours from 360° images and depth maps.  
-  Supports advanced features like 3D transitions and integration with custom plugins.  
-  Requires some coding knowledge for customization and more complex setups.
+  -A software for building virtual tours from 360° images and depth maps
+  -Supports advanced features like 3D transitions and integration with custom plugins
+  -Requires some coding knowledge for customization and more complex setups
 
 </details>
 

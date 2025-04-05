@@ -1,37 +1,43 @@
 # Sketchfab
 
-[![Sketchfab Viewer](../../images/sketchfab.jpg)](https://sketchfab.com/models/e8aad827ecb244e28427864c57b18587/embed)
+**Sketchfab** is a web-based platform for viewing and sharing 3D content.
 
-[Sketchfab viewer](https://sketchfab.com/models/e8aad827ecb244e28427864c57b18587/embed)
+In this example, a 3D model of a mussel was created using photogrammetry and uploaded to Sketchfab.
 
-## Info
+[![Sketchfab Viewer](../../images/sketchfab.PNG)](https://sketchfab.com/models/e8aad827ecb244e28427864c57b18587/embed)
 
-Sketchfab is a web-based viewer for 3D, virtual reality (VR) and augmented reality (AR) content.
-The viewer is based on WebGL ad WebXR technologies that allows 3D models to be viewed in browser on desktop, mobile or VR headset.
-The platform allows you to view, share, and embed 3D assets.  
-In this example, it was used to display a model created with photogrammetry.
+_Model displayed using Sketchfab viewer_
 
-### Technologies
+---
 
-- **Photogrammetry:**
-  - Qlone mobile app for Android/iOS (free with limits)
-- **Materials:**
-  - Printed out Qlone mat, size A4
-- **Viewer:**
-  - Sketchfab web-app (free with limits)
+## 🔑 Key Points
 
-### Working Process
+- View and share 3D content
+- Includes a simple editor
+- Can add annotations in editor
+- Can sell and download models
+- Easy to embed on web pages
 
-- A 3D mussel model was created using photogrammetry with the Qlone mobile app for Android.
-- A .glb file was exported and uploaded to Sketchfab.
+---
 
-### Where to Use
+## 🧰 Technologies
 
-- As online portfolio to showcase your 3D models or animations.
-- Sell your 3D models or buy.
-- E-commerce and marketing: interactive 3D views of products.
+- **Device:** Android phone
+- **Application:** Qlone mobile app
+- **Capture Setup:** Qlone mat (printed, A4 size)
+- **Viewer:** Sketchfab web application
 
-### Webpages
+---
 
-- [qlone.pro](https://www.qlone.pro)
+## 💡 Where to Use
+
+- Online portfolios
+- E-commerce and marketing with interactive product views
+- Sell or license 3D assets
+
+---
+
+## 🔗 Links
+
 - [sketchfab.com](https://sketchfab.com)
+- [qlone.pro](https://www.qlone.pro)

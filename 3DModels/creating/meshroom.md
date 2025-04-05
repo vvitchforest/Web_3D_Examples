@@ -13,7 +13,6 @@ _[Candle model created using Meshroom](https://sketchfab.com/3d-models/candle-c4
 ## 🔑 Key Points
 
 - 📸 Photogrammetry, creating a 3D model from overlapping images
-- ⚙️ Created with 58 images taken around an object in natural lighting with a black background, mesh cleaned in Blender
 - 🖥️ Open-source
 
 ---
@@ -22,6 +21,7 @@ _[Candle model created using Meshroom](https://sketchfab.com/3d-models/candle-c4
 
 - **Device:** iPhone SE
 - **Software:** Meshroom
+- **Capture Setup:** Images (58) taken around an object in natural lighting, with black background
 
 ---
 

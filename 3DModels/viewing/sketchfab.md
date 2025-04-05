@@ -6,7 +6,7 @@ In this example, a 3D model of a mussel was created using photogrammetry and upl
 
 [![Sketchfab Viewer](../../images/sketchfab.PNG)](https://sketchfab.com/models/e8aad827ecb244e28427864c57b18587/embed)
 
-_Model displayed using Sketchfab viewer_
+[_Model displayed using Sketchfab viewer_](https://sketchfab.com/models/e8aad827ecb244e28427864c57b18587/embed)
 
 ---
 

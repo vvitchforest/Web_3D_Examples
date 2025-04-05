@@ -4,7 +4,7 @@
 
 Three.js is also compatible with **React** through libraries like `react-three-fiber`.
 
-![Unicorn model](../../images/unicorn.png)
+![Unicorn model](../../images/unicorn.PNG)
 
 _3D unicorn model rendered in Three.js scene; photogrammetry model created with Qlone mobile app_
 

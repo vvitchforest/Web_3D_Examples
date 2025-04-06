@@ -6,7 +6,7 @@ This repository provides examples of using 3D models and virtual tours on the we
 
 ### Creating with LiDAR and Photogrammetry
 
-LiDAR scanning or photogrammetry are techniques for creating 3D models of real world objects. They do not require modelling or texturing using a 3D software, but the resulting models can be imported to Blender for cleaning the geometry or further processing.
+LiDAR scanning and photogrammetry are techniques for creating 3D models of real world objects. They do not require modelling or texturing using a 3D software.
 
 LiDAR scanning requires a mobile device with a LiDAR sensor, whereas photogrammetry can be created with any camera, since it is based on capturing overlapping images from different angles to create a 3D geometry.
 
@@ -45,7 +45,6 @@ There are also many other platforms for creating virtual tours, for example [Koa
 <details>
 
   <summary>Mobile Apps</summary>
-
 
 **Photogrammetry**
 

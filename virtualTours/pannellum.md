@@ -35,8 +35,8 @@ _Example panorama using cube-mapped 360° images_
 
 ## 💡 Where to Use
 
-- 🖼️ **Virtual Tours:** Lightweight solution for galleries, exhibitions, schools, or stores
-- 🌐 **Web Projects:** Embed simple 360° scenes without complex 3D frameworks
+- **Virtual Tours:** Lightweight solution for galleries, exhibitions, schools, or stores
+- **Web Projects:** Embed simple 360° scenes without complex 3D frameworks
 
 ---
 

@@ -1,43 +1,56 @@
 # Matterport
 
-**Media Lab Virtual Tour**
+**Matterport** is a platform that turns real-world spaces into interactive 3D models and virtual tours using 360° scans. It works with cameras like the Matterport Pro2, which capture detailed spatial data that's processed in the cloud to generate immersive experiences.
 
-[![Media Lab Virtual Tour](../images/medialab-tour.PNG)](https://discover.matterport.com/space/pEbNwaqkErA)
+Additional information (such as annotations) can be added using Matterport's cloud tools, and virtual tours can be embedded on websites.
 
-**Media Lab 3D Model**
+Even with a paid subscription, exporting the 3D model incurs an extra fee.
 
-[![Media Lab 3D Model](../images/medialab-model.PNG)](https://discover.matterport.com/space/pEbNwaqkErA)
+Matterport also provides APIs and SDKs for integrating tours into third-party platforms, but these developer tools require a specific license.
 
-**Karamalmi Campus Virtual Tour**
+[![Media Lab Virtual Tour](../images/medialab-tour.PNG)](https://discover.matterport.com/space/pEbNwaqkErA)  
+[_Media Lab Virtual Tour_](https://discover.matterport.com/space/pEbNwaqkErA)
 
-[![Matterport Virtual Tour](../images/matterport.PNG)](https://discover.matterport.com/space/T32nCkyJRpv)
+[![Media Lab 3D Model](../images/medialab-model.PNG)](https://discover.matterport.com/space/pEbNwaqkErA)  
+[_Media Lab 3D Model_](https://discover.matterport.com/space/pEbNwaqkErA)
 
-**Matterport** is a platform that creates immersive 3D models and virtual tours from 360° scans of real-world spaces. It uses cameras like the Matterport Pro2 to capture detailed spatial data, which is then processed in the cloud to generate a 3D model and a virtual tour of the space. Within the Matterport cloud, additional details such as annotations can be added. A link to the virtual tour can be embedded into a webpage. Note that even with a paid subscription, downloading the 3D model of the space incurs an extra fee.
-
-Matterport also offers API and SDK developer tools that allow integration into third-party applications, although these require purchasing a license.
+[![Matterport Virtual Tour](../images/matterport.PNG)](https://discover.matterport.com/space/T32nCkyJRpv)  
+[_Karamalmi Campus Virtual Tour_](https://discover.matterport.com/space/T32nCkyJRpv)
 
 ---
 
-## Working Process
+## 🔑 Key Points
+
+- Generates virtual tours and 3D models
+- Embeddable tours for websites
+- Requires subscription, also export and developer tools require extra fees
+
+---
+
+## 🧰 Technologies
+
+- **Camera:** Matterport Pro2
+- **Platform:** Matterport cloud
+
+---
+
+## ⚙️ Working Process
 
 1. 360° scans were taken at the Metropolia Karamalmi campus using the Matterport camera.
-2. The scans were automatically uploaded to the Matterport cloud.
-3. A full 3D model and virtual tour were prepared within 3–5 hours.
-4. Additional mattertags were added to provide extra information.
+2. Scans uploaded to the Matterport cloud.
+3. A full 3D model and virtual tour were generated within 3–5 hours.
+4. Mattertags (interactive info spots) were added for additional details.
 
 ---
 
-## Where to Use
+## 💡 Where to Use
 
-- **Real Estate:**  
-  Provide potential buyers with detailed virtual tours to better understand properties.
-- **Virtual Tours:**  
-  Ideal for galleries, shops, schools, and workplaces.
-- **Architecture/Construction:**  
-  Showcase spaces and buildings; especially useful when purchasing CAD and BIM files.
+- Real estate
+- **Exhibitions & Shops:** Digital tours for galleries, stores, and schools
+- **Architecture/Construction:** Useful for generating CAD/BIM data and tracking project progress
 
 ---
 
-## Webpages
+## 🔗 Links
 
-- [Matterport](https://matterport.com)
+- [matterport.com](https://matterport.com)

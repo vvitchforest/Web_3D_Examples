@@ -3,9 +3,10 @@
 **Clara.io** is a browser-based app for 3D modeling, animation, and rendering. It can be used as an online 3D editor, viewer, and sharing/embedding tool.
 
 In this example, it was used to showcase models created using various mobile scanning apps.
+
 [![Clara.io Viewer](../../images/claraio.PNG)](https://clara.io/view/aec7ff3b-44f2-4636-a698-88cd62337bbb)
 
-[_Model displayed using Clara.io viewer_](https://clara.io/view/aec7ff3b-44f2-4636-a698-88cd62337bbb)
+[_Models displayed using Clara.io viewer_](https://clara.io/view/aec7ff3b-44f2-4636-a698-88cd62337bbb)
 
 ---
 

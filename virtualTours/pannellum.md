@@ -1,26 +1,45 @@
 # Pannellum
 
+**Pannellum** is a JavaScript library for displaying 360° panoramic images in the browser. It is a lightweight option for creating simple virtual tours.
+
 ![Pannellum Image](../images/pannellum.PNG)
 
-**Pannellum** is an open-source panorama viewer library that enables lightweight virtual tours using 360° images. Pannellum is used to create virtual tours by converting 360° images (taken with any 3D camera) into cube images and then stitching them into an interactive panorama.
+_Example panorama using cube-mapped 360° images_
 
 ---
 
-## Working Process
+## 🔑 Key Points
 
-1. Pictures were taken with a Garmin Virb 360 camera at the Metropolia Karamalmi campus.
-2. 360° images were converted using a sphere-to-cube converter into cube images (back, down, front, left, right, top).
-3. A panorama was created with the Pannellum panorama viewer library.
-4. Hotspots were added for interactivity.
-
----
-
-## Where to Use
-
-- **Virtual Tours:** Create a very simple and lightweight virtual tour.
+- Displays 360° panoramas without heavy frameworks
+- Supports cube-mapped images
+- Can add interactive hotspots
 
 ---
 
-## Webpages
+## 🧰 Technologies
+
+- **Camera:** Garmin Virb 360
+- **Software:** Pannellum panorama viewer
+- **Tools:** Sphere-to-cube image converter
+
+---
+
+## ⚙️ Working Process
+
+1. 360° images were taken at Metropolia Karamalmi campus using a Garmin Virb 360 camera.
+2. Images were converted into cube faces using a sphere-to-cube converter.
+3. Panorama scenes were created using the Pannellum library.
+4. Hotspots were added to enable basic interactivity within the tour.
+
+---
+
+## 💡 Where to Use
+
+- 🖼️ **Virtual Tours:** Lightweight solution for galleries, exhibitions, schools, or stores
+- 🌐 **Web Projects:** Embed simple 360° scenes without complex 3D frameworks
+
+---
+
+## 🔗 Links
 
 - [pannellum.org](https://pannellum.org)

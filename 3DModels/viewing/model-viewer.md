@@ -1,39 +1,40 @@
-# Model-viewer + AR
+# Model-viewer
+
+**Model Viewer** is an open-source web component that makes it easy to display and interact with 3D models on a webpage using HTML.  
+It uses WebGL under the hood and provides features like lighting, camera control, and AR support via the `<model-viewer>` tag—without requiring libraries like Three.js or Babylon.js.
+
+[**Model-viewer Editor**](https://modelviewer.dev/editor) is a browser-based tool for customizing and previewing models. It generates ready-to-use code snippets with support for AR and various rendering options.
 
 ![Model-viewer + AR](../../images/elephant.jpg)
 
-[Model-viewer](https://modelviewer.dev/)
+---
 
-## Info
+## 🔑 Key Points
 
-**Model Viewer** is an open-source web component (primarily developed by Google) that makes it easy to display and interact with 3D models on a web page using just a few lines of HTML. It’s built on top of WebGL and the `<model-viewer>` tag handles a lot of the complexity that normally goes into rendering 3D on the web—things like lighting, controls, and AR support on compatible devices. This allows developers to integrate 3D content without needing knowledge of Three.js or Babylon.js.
+- Simple to use
+- Free to use and open source
+- AR support on Android
 
-[Model-viewer Editor](https://modelviewer.dev/editor) is an online tool for visually customizing and previewing 3D models before embedding them into websites. It allows adjustments to settings such as camera controls, lighting, and AR options, and then generates the code—using the `<model-viewer>` component—needed to display the model. This simplifies the integration of interactive 3D content without extensive coding.
+---
 
-### Technologies
+## 🧰 Technologies
 
-- **Photogrammetry:**  
-  Qlone mobile app for Android/iOS (free with limits)
-- **Materials:**  
-  Printed Qlone mat, size A4
-- **Viewer:**  
-  Google Model-viewer library with AR support (free)
+- **Photogrammetry:** Qlone mobile app for Android/iOS
+- **Materials:** Printed Qlone mat, size A4
+- **Viewer:** Google Model Viewer library
 
-### Working Process
+---
 
-- A 3D elephant figure was created with the Qlone mobile app on an Android phone.
-- The model was exported as a `.glb` file.
-- The model was uploaded to the Model-viewer editor, which generated the necessary code along with a poster image.
-- That code was then integrated into a website to enable AR features.
+## 💡 Where to Use
 
-### Where to Use
+- E-commerce product previews
+- Art and design portfolio
+- Show objects in augmented reality without needing Three.js
 
-- E-commerce and product showcases on teh web
-- Adding 3D and AR elements to a webpage, for example art or design portfolio without the need to learn Three.js
-- Show an object in AR
+---
 
-### Webpages
+## 🔗 Links
 
-- [qlone.pro](https://www.qlone.pro)
 - [modelviewer.dev](https://modelviewer.dev)
 - [modelviewer.dev/editor](https://modelviewer.dev/editor)
+- [qlone.pro](https://www.qlone.pro)

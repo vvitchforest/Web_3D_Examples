@@ -321,6 +321,5 @@ There are also many other platforms for creating virtual tours, for example [Koa
   - _Works only with the Matterport mobile app and requires a Matterport subscription_
   - _Matterport cameras are supported only with the Matterport cloud professional plan_
   - _Cannot get high-quality 360° pictures out from the cloud_
-    </details>
 
-       </details>
+    </details>

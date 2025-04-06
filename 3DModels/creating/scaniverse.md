@@ -16,10 +16,10 @@ _[Media lab scanned with Scaniverse app](https://sketchfab.com/3d-models/scanive
 
 ## 🔑 Key Points
 
-- 📱 Works on iOS (LiDAR) and Android (photogrammetry)
-- ✨ Supports **Gaussian splatting** for high-quality rendering
-- 📤 Export to multiple 3D file formats
-- 📦 Entire process handled on mobile — no PC needed
+- Works on iOS (LiDAR) and Android (photogrammetry)
+- Supports **Gaussian splatting** for high-quality rendering
+- Export to multiple 3D file formats
+- Entire process handled on mobile — no PC needed
 
 ---
 

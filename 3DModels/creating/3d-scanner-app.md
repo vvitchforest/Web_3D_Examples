@@ -19,8 +19,8 @@ _[Turtle point cloud scan taken with the 3D Scanner App, exported in .ply format
 
 ## 🔑 Key Points
 
-- 📱 iOS app that supports both LiDAR and photogrammetry
-- 📤 Generates mesh (.glb) and point-cloud (.ply) files
+- iOS app that supports both LiDAR and photogrammetry
+- Generates mesh (.glb) and point-cloud (.ply) files
 
 ---
 

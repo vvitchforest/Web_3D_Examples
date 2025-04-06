@@ -14,11 +14,11 @@ _[Graffiti model created with Polycam](https://poly.cam/capture/6AE6794F-1FFC-46
 
 ## 🔑 Key Points
 
-- 📱 Available for both iOS and Android
-- 🌀 Supports **LiDAR** and **photogrammetry** modes
-- ✨ Includes **Gaussian splatting** for higher detail
-- 📤 Export to formats like USDZ, GLB, OBJ
-- 🌐 Upload and view models on the web
+- Available for both iOS and Android
+- Supports **LiDAR** and **photogrammetry** modes
+- Includes **Gaussian splatting** for higher detail
+- Export to formats like USDZ, GLB, OBJ
+- Upload and view models on the web
 
 ---
 

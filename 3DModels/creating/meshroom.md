@@ -12,8 +12,8 @@ _[Candle model created using Meshroom](https://sketchfab.com/3d-models/candle-c4
 
 ## 🔑 Key Points
 
-- 📸 Photogrammetry, creating a 3D model from overlapping images
-- 🖥️ Open-source
+- Photogrammetry, creating a 3D model from overlapping images
+- Open-source
 
 ---
 

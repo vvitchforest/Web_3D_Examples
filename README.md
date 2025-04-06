@@ -258,12 +258,12 @@ There are also many other platforms for creating virtual tours, for example [Koa
   - Supports creation of 3D models from depth maps and offers editing environment
   - Includes an SDK for custom feature development.
   - Has a learning curve, especially for advanced editing tools
-    _Note: During testing, the editor was not fully working in Safari._
+  - _Note: During testing, the editor was not fully working in Safari._
 
-- **Krpano**  
-  -A software for building virtual tours from 360° images and depth maps
-  -Supports advanced features like 3D transitions and integration with custom plugins
-  -Requires some coding knowledge for customization and more complex setups
+- **Krpano**
+  - A software for building virtual tours from 360° images and depth maps
+  - Supports advanced features like 3D transitions and integration with custom plugins
+  - Requires some coding for customization and more complex setups
 
 </details>
 
@@ -316,7 +316,7 @@ There are also many other platforms for creating virtual tours, for example [Koa
 
   - Auto stitching
   - Really simple and fast to use
-  - Outcome is professional
+  - Professional result
   - Automatic model and virtual tour generation
   - _Works only with the Matterport mobile app and requires a Matterport subscription_
   - _Matterport cameras are supported only with the Matterport cloud professional plan_

@@ -12,7 +12,7 @@ It uses WebGL under the hood and provides features like lighting, camera control
 ## 🔑 Key Points
 
 - Simple to use
-- Free to use and open source
+- Open source
 - AR support on Android
 
 ---
